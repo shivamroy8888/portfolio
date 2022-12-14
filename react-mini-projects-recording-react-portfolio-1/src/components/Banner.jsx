@@ -15,7 +15,7 @@ function Banner() {
             <p>
             An inspired team palyer,always curious about new problems and learning new things in order to deliver out of the box solution with complete ownership.
             </p>
-            <a className="btn" href="#projects">
+            <a className="btn" href="/index.pdf">
               RESUME
             </a>
           </div>
