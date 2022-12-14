@@ -49,13 +49,13 @@ function Header() {
         <a className="link" onClick={() => setActive(!active)} href="#services">
           Sevices
         </a>
-        <a
+        {/* <a
           className="link"
           onClick={() => setActive(!active)}
           href="#experiences"
         >
           Experience
-        </a>
+        </a> */}
         <a className="link" onClick={() => setActive(!active)} href="#projects">
           Projects
         </a>
